@@ -1,5 +1,10 @@
 [
+"hi",
 "hello",
 "welcome",
- "Thank You"
+ "Thank You",
+ "how are you?",
+ "fine",
+ "that's good to here",
+ "good"
 ]
