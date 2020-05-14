@@ -9,3 +9,7 @@ install dependencies.
 
 4.import time.
 
+
+chat.txt file is train you chatbot file..
+
+
