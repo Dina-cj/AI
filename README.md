@@ -1,11 +1,11 @@
 # AI for chatbots,
 install dependencies.
 
-from chatterbot.trainers import ListTrainer.
+1.from chatterbot.trainers import ListTrainer.
 
-from chatterbot import ChatBot.
+2.from chatterbot import ChatBot.
 
-import subprocess.
+3.import subprocess.
 
-import time.
+4.import time.
 
