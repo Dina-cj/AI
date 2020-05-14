@@ -1,4 +1,4 @@
-# AI for chatbots
+# AI for chatbots,
 install dependencies.
 
 from chatterbot.trainers import ListTrainer.
