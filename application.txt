@@ -1,6 +1,0 @@
-[ 'Hello',
-    'I am good.',
-    'That is good to hear.',
-    'Thank you',
-    'You are welcome',
-]
