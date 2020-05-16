@@ -1,15 +1,26 @@
 # AI for chatbots,
 install dependencies.
 
-1.from chatterbot.trainers import ListTrainer.
+1.pip install install chatterbot
 
-2.from chatterbot import ChatBot.
+3.pip install subprocess
 
-3.import subprocess.
+4.pip install time
 
-4.import time.
+5.pip install gtts
+
+6.pio install os
+
+7.pip install playsound
 
 
 chat.txt file is train you chatbot file..
+
+  (or)
+  
+ #Train this
+ 
+ 
+ Trainer.train(["hello",'hi'])
 
 
