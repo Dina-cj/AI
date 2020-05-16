@@ -14,10 +14,12 @@ language = 'en'
 
 bot = ChatBot('test')
 
+#traine chat bot the funtion triner()...
 def triner():
     global bot
     trainer = ListTrainer(bot)
     # conv = open('chat.txt', 'r').readline()
+    #if the object data is traine the chat bot
     trainer.train([
                   "how are you?",
                   "Thank you to at all, your computer is safe not virus found!."
